@@ -1,2 +1,2 @@
-# UBservices1
+# UBservices
 a small but beautiful website for business purposes.
